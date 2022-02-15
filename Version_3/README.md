@@ -1,4 +1,4 @@
-Gnosis Safe Contracts
+My Vault Contracts
 =====================
 
 [![npm version](https://badge.fury.io/js/%40gnosis.pm%2Fsafe-contracts.svg)](https://badge.fury.io/js/%40gnosis.pm%2Fsafe-contracts)
@@ -75,14 +75,6 @@ Documentation
 -------------
 - [Error codes](docs/error_codes.md)
 - [Coding guidelines](docs/guidelines.md)
-
-Audits/ Formal Verification
----------
-- [for Version 1.3.0 by G0 Group](docs/audit_1_3_0.md)
-- [for Version 1.2.0 by G0 Group](docs/audit_1_2_0.md)
-- [for Version 1.1.1 by G0 Group](docs/audit_1_1_1.md)
-- [for Version 1.0.0 by Runtime Verification](docs/rv_1_0_0.md)
-- [for Version 0.0.1 by Alexey Akhunov](docs/alexey_audit.md)
 
 Security and Liability
 ----------------------
